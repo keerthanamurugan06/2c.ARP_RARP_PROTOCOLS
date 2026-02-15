@@ -17,7 +17,7 @@ stored.
 5. Map the IP address with its MAC address and return the MAC address to client.
 P
 ## PROGRAM - ARP
-arpserver
+arpserver.py
 ```
 import socket
 
@@ -55,7 +55,6 @@ while True:
 ## OUPUT - ARP
 ![alt text](<../Screenshot 2026-02-15 153117.png>)
 ![alt text](<../Screenshot 2026-02-15 153153.png>)
-
 ## PROGRAM - RARP
 rarpserver.py
 ```
@@ -108,7 +107,6 @@ c.close()
 ## OUPUT -RARP
 ![alt text](<../Screenshot 2026-02-15 153131.png>)
 ![alt text](<../Screenshot 2026-02-15 153142.png>)
-
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
