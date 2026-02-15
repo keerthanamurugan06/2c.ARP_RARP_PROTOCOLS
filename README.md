@@ -106,7 +106,7 @@ c.close()
 
 ## OUPUT -RARP
 ![alt text](<Screenshot 2026-02-15 153131.png>)
-![alt text](<Screenshot 2026-02-15 153142.png>)
+![alt text](<Screenshot 2026-02-15 161122.png>)
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
